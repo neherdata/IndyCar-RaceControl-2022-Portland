@@ -1,0 +1,51 @@
+## tsconfig.json
+https://indycarsso.blob.core.windows.net/racecontrol/tsconfig.json?266&callback=tsconfigCallback&_=1662319905605
+
+## RaceControlMobile.js
+https://racecontrol.indycar.com/scripts/RaceControlMobile.js?x=0.558112203887879
+
+## timingscoring.json
+https://indycarsso.blob.core.windows.net/racecontrol/timingscoring.json?254&callback=jsonCallback&_=1662319905594
+
+## racecontrol.indycar.com
+https://racecontrol.indycar.com/
+
+# http request
+GET /ntt-data/INDYCAR_DATA_POLLING/data_polling_blob.json HTTP/1.1
+Accept: application/json, text/javascript, */*; q=0.01
+Content-Type: application/json
+Origin: https://racecontrol.indycar.com
+Accept-Encoding: gzip, deflate, br
+Host: indycar.blob.core.windows.net
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.1 Safari/605.1.15
+Referer: https://racecontrol.indycar.com/
+Accept-Language: en-US,en;q=0.9
+Connection: keep-alive
+
+# http response
+HTTP/1.1 200 OK
+Content-Type: application/octet-stream
+Access-Control-Allow-Origin: https://racecontrol.indycar.com
+Last-Modified: Sat, 03 Sep 2022 19:07:28 GMT
+Access-Control-Expose-Headers: x-ms-request-id,Server,x-ms-version,Content-Type,Last-Modified,ETag,Content-MD5,x-ms-lease-status,x-ms-blob-type,Content-Length,Date,Transfer-Encoding
+Date: Sun, 04 Sep 2022 19:36:24 GMT
+Content-Length: 59
+Access-Control-Allow-Credentials: true
+ETag: 0x8DA8DDF8B993D79
+Vary: Origin
+x-ms-blob-type: BlockBlob
+x-ms-request-id: 38ee6a2d-801e-0008-7395-c02e28000000
+Server: Windows-Azure-Blob/1.0 Microsoft-HTTPAPI/2.0
+x-ms-lease-status: unlocked
+Content-MD5: b1/hGBdQ0xoZW3q/0bPtJg==
+x-ms-version: 2009-09-19
+
+
+## ntt-data/INDYCAR_DATA_POLLING/data_polling_blob.json
+https://indycar.blob.core.windows.net/ntt-data/INDYCAR_DATA_POLLING/data_polling_blob.json?252
+
+## header.js
+https://digbza2f4g9qo.cloudfront.net/scripts/indycar/modules/_desktop/header.js
+
+## desktop.css
+https://digbza2f4g9qo.cloudfront.net/styles/indycar/desktop.css
