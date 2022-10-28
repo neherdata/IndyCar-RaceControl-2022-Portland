@@ -1,4 +1,4 @@
-![IndyCar](https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/INDYCAR_logo.svg/2560px-INDYCAR_logo.svg.png)
+![IndyCar](https://media.socastsrm.com/wordpress/wp-content/blogs.dir/2509/files/2020/07/NTT-IndyCar-logos.jpg)
 
 
 # indycar2022-portland
