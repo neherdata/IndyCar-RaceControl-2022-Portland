@@ -1,18 +1,23 @@
 ## tsconfig.json
+
 https://indycarsso.blob.core.windows.net/racecontrol/tsconfig.json?266&callback=tsconfigCallback&_=1662319905605
 
 ## RaceControlMobile.js
+
 https://racecontrol.indycar.com/scripts/RaceControlMobile.js?x=0.558112203887879
 
 ## timingscoring.json
+
 https://indycarsso.blob.core.windows.net/racecontrol/timingscoring.json?254&callback=jsonCallback&_=1662319905594
 
 ## racecontrol.indycar.com
+
 https://racecontrol.indycar.com/
 
 # http request
+
 GET /ntt-data/INDYCAR_DATA_POLLING/data_polling_blob.json HTTP/1.1
-Accept: application/json, text/javascript, */*; q=0.01
+Accept: application/json, text/javascript, _/_; q=0.01
 Content-Type: application/json
 Origin: https://racecontrol.indycar.com
 Accept-Encoding: gzip, deflate, br
@@ -23,6 +28,7 @@ Accept-Language: en-US,en;q=0.9
 Connection: keep-alive
 
 # http response
+
 HTTP/1.1 200 OK
 Content-Type: application/octet-stream
 Access-Control-Allow-Origin: https://racecontrol.indycar.com
@@ -40,12 +46,14 @@ x-ms-lease-status: unlocked
 Content-MD5: b1/hGBdQ0xoZW3q/0bPtJg==
 x-ms-version: 2009-09-19
 
-
 ## ntt-data/INDYCAR_DATA_POLLING/data_polling_blob.json
+
 https://indycar.blob.core.windows.net/ntt-data/INDYCAR_DATA_POLLING/data_polling_blob.json?252
 
 ## header.js
+
 https://digbza2f4g9qo.cloudfront.net/scripts/indycar/modules/_desktop/header.js
 
 ## desktop.css
+
 https://digbza2f4g9qo.cloudfront.net/styles/indycar/desktop.css
